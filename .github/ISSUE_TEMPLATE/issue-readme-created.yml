@@ -1,0 +1,110 @@
+name: "[Process Doc Update]: README Created for OctoAcme Project Management Documentation Hub"
+description: "README created for OctoAcme Project Management Documentation"
+labels: ["documentation", "process improvement"]
+body: |
+  ## Which process document do you want to update?
+
+  **<documento nuevo>** - This is a new documentation artifact
+
+  ## Summary of New Content
+
+  Created a comprehensive README.md file for the `docs/` directory that serves as a centralized hub for all OctoAcme Project Management Documentation. The README:
+
+  - ✅ Provides an overview of OctoAcme's project management approach and core principles
+  - ✅ Includes a brief summary of all lifecycle stages (Initiation, Planning, Execution, Release, Retrospective)
+  - ✅ Contains organized links to all process documentation:
+    - Project Management Overview
+    - Project Initiation Guide
+    - Project Planning
+    - Execution & Tracking
+    - Risk Management & Communication
+    - Release & Deployment Guide
+    - Retrospective & Continuous Improvement
+    - Roles & Personas
+  - ✅ Defines core roles and key artifacts used across projects
+  - ✅ Provides a "Getting Started" guide directing users to appropriate documents based on their context
+  - ✅ Includes guidance on how to contribute updates to the documentation
+
+  ## Why is this update needed?
+
+  Previously, the process documentation existed as separate markdown files without a central hub or navigation guide. This created friction for:
+
+  - **New team members** who need to quickly understand OctoAcme's approach but don't know where to start
+  - **Project team members** who need to find specific guidance for their current project phase
+  - **Knowledge discovery** - there was no single source of truth for browsing all available process documentation
+  - **Onboarding** - the lack of an index made it harder to introduce people to structured project management practices
+
+  The README solves these problems by:
+  - Accelerating onboarding and reducing time to productivity
+  - Serving as a table of contents for the process documentation
+  - Reinforcing OctoAcme's core principles and consistent approach
+  - Making the documentation more discoverable and usable
+
+  ## Content Included
+
+  ### 1. **Introduction & Core Principles**
+  - Welcome header explaining the purpose of the documentation hub
+  - OctoAcme's five core principles (Customer-first, Iterative delivery, Clear ownership, Data-informed decisions, Psychological safety)
+
+  ### 2. **Project Lifecycle Stages**
+  - Brief descriptions of each phase (Initiation, Planning, Execution, Release, Close & Retrospective)
+  - Clear links to detailed documentation for each stage
+
+  ### 3. **Key Documentation Links**
+  - Organized list with clear titles, descriptions, and direct markdown links to each process document:
+    - 📋 Project Management Overview
+    - 🚀 Project Initiation Guide
+    - 📐 Project Planning
+    - ⚙️ Execution & Tracking
+    - 📊 Risk Management & Communication
+    - 🎯 Release & Deployment Guide
+    - 🔄 Retrospective & Continuous Improvement
+    - 👥 Roles & Personas
+
+  ### 4. **Core Roles Quick Reference**
+  - PM (Project Manager)
+  - PdM (Product Manager)
+  - Developers
+  - QA/Testing
+  - Stakeholders
+
+  ### 5. **Key Artifacts Summary**
+  - List of main deliverables used across projects
+
+  ### 6. **Communication Cadence**
+  - Quick reference for meeting structure and frequency
+
+  ### 7. **Getting Started Guide**
+  - Decision tree helping users find the right document based on their situation:
+    - New to OctoAcme? → Project Management Overview
+    - Starting a new project? → Project Initiation Guide
+    - In execution? → Execution & Tracking
+    - Need to escalate? → Risk Management & Communication
+    - Planning a release? → Release & Deployment Guide
+
+  ### 8. **Contributing Guidelines**
+  - How to propose updates to process docs using the issue template
+
+  ### 9. **Contact & Feedback Section**
+  - Where to ask questions or propose improvements
+
+  ### 10. **Metadata**
+  - Last-updated timestamp
+  - Note that these are living documents that evolve with team practices
+
+  ## Acceptance Criteria
+
+  - [x] Content aligns with existing process docs
+  - [x] Update improves clarity or closes a documented gap
+  - [x] Proposed content has been reviewed with stakeholders (if needed)
+
+  ## File Location
+
+  **Created at:** `docs/README.md`
+
+  ## Additional Notes
+
+  - All links are relative markdown links pointing to the other documentation files
+  - Uses clear formatting (headings, bullet points, emojis) for easy scanning
+  - Includes a last-updated timestamp at the bottom
+  - Designed as a "living document" that evolves with team practices
